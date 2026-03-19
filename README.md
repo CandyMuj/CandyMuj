@@ -1,11 +1,11 @@
 <!-- 顶部打字动画横幅 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+CandyMuj+%F0%9F%91%8B;Full-Stack+Developer;Java+%7C+Python+%7C+Vue+%7C+Spring+Boot;Always+learning+new+things..." alt="Typing SVG" />
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+CandyMuj+%F0%9F%91%8B;Full-Stack+Developer;Java+%7C+Python+%7C+Vue+%7C+Spring+Boot;Always+learning+new+things..." /></a>
 </div>
 
 <!-- 个人简介横幅 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CandyMuj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Code%20%7C%20Create%20%7C%20Contribute&descAlignY=51&descAlign=62" />
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CandyMuj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Code%20%7C%20Create%20%7C%20Contribute&descAlignY=51&descAlign=62" /></a>
 </div>
 
 ---
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-DC3545?style=flat-square&logo=mybatis&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-000000?style=flat-square&logo=apple&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](#) [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](#) [![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)](#) [![MyBatis](https://img.shields.io/badge/MyBatis-DC3545?style=flat-square&logo=mybatis&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#) [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](#) [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](#) [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](#) [![IOS](https://img.shields.io/badge/IOS-000000?style=flat-square&logo=apple&logoColor=white)](#) [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](#) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)](#) [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](#) [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](#) [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)](#) [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)](#) [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](#) [![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](#)
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/CandyMuj?label=Followers&style=flat-square&logo=github&color=FF6B6B&logoColor=white) ![GitHub User's stars](https://img.shields.io/github/stars/CandyMuj?label=Total%20Stars&style=flat-square&logo=github&color=FFD93D&logoColor=white) ![Profile Views](https://komarev.com/ghpvc/?username=CandyMuj&style=flat-square&color=6BCB77&label=Profile+Views) ![Hits](https://hits.b3log.org/CandyMuj/CandyMuj.svg)
+[![GitHub followers](https://img.shields.io/github/followers/CandyMuj?label=Followers&style=flat-square&logo=github&color=FF6B6B&logoColor=white)](#) [![GitHub User's stars](https://img.shields.io/github/stars/CandyMuj?label=Total%20Stars&style=flat-square&logo=github&color=FFD93D&logoColor=white)](#) [![Profile Views](https://komarev.com/ghpvc/?username=CandyMuj&style=flat-square&color=6BCB77&label=Profile+Views)](#) [![Hits](https://hits.b3log.org/CandyMuj/CandyMuj.svg)](#)
 
 </div>
 
@@ -51,8 +51,8 @@
 <div align="center">
 
 <table><tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=CandyMuj&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandyMuj&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" /></td>
+<td><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=CandyMuj&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /></a></td>
+<td><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandyMuj&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" /></a></td>
 </tr></table>
 
 </div>
@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![CandyMuj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CandyMuj&theme=tokyo-night&hide_border=true)
+[![CandyMuj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CandyMuj&theme=tokyo-night&hide_border=true)](#)
 
 </div>
 
@@ -73,7 +73,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=CandyMuj&theme=tokyonight&hide_border=true&locale=zh_Hans)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CandyMuj&theme=tokyonight&hide_border=true&locale=zh_Hans)](#)
 
 </div>
 
@@ -81,7 +81,7 @@
 
 <!-- 底部波浪 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" /></a>
 </div>
 
 <div align="center">
