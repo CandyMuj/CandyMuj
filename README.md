@@ -1,6 +1,6 @@
 <!-- 顶部打字动画横幅 -->
 <div align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+CandyMuj+%F0%9F%91%8B;Full-Stack+Developer;Java+%7C+Python+%7C+Vue+%7C+Spring+Boot;Always+learning+new+things..." /></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+CandyMuj+%F0%9F%91%8B;Full-Stack+Developer;Java+%7C+Python+%7C+Vue;Always+learning+new+things..." /></a>
 </div>
 
 <!-- 个人简介横幅 -->
